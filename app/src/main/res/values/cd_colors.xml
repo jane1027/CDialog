@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 对话框 -->
+    <color name="cd_title_bg">@color/bg_primary</color>
+    <color name="cd_primary_normal">@color/bg_primary</color>
+    <color name="cd_primary_pressed">@color/bg_primary_deep</color>
+
+</resources>
